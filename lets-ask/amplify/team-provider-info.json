@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lesask-dev-3de0c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::215926120184:role/amplify-lesask-dev-3de0c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::215926120184:role/amplify-lesask-dev-3de0c-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lesask-dev-3de0c-deployment",
+      "UnauthRoleName": "amplify-lesask-dev-3de0c-unauthRole",
+      "StackName": "amplify-lesask-dev-3de0c",
+      "StackId": "arn:aws:cloudformation:us-east-1:215926120184:stack/amplify-lesask-dev-3de0c/76608f60-c442-11ef-aa75-0affe71a3377",
+      "AmplifyAppId": "djqajv0l9vy5v"
+    },
+    "categories": {
+      "auth": {
+        "lesask1cc18164": {}
+      }
+    }
+  }
+}
